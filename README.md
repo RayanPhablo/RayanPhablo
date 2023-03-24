@@ -11,8 +11,8 @@ Estou sempre estudando e tentando aprimorar minhas habilidades ao máximo. 📚�
 
 <div>
   <a href="https://github.com/RayanPhablo">
-  <img height=180cm" src="https://github-readme-stats.vercel.app/api?username=RayanPhablo&show_icons=true&theme=midnight-purple&count_private=true">
-  <img height=180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanPhablo&layout=compact&theme=midnight-purple">
+  <img height=130cm" src="https://github-readme-stats.vercel.app/api?username=RayanPhablo&show_icons=true&theme=midnight-purple&count_private=true">
+  <img height=130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanPhablo&layout=compact&theme=midnight-purple">
   
 </div>
 
