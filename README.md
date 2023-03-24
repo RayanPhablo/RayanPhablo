@@ -1,12 +1,13 @@
 ## Olá! Sou Phablo, seja muito bem vindo ao meu github! 😎
 
 ###
-
+<div>
 Estou sempre estudando e tentando aprimorar minhas habilidades ao máximo. 📚💻🖱️
 <img align="right" alt="P-spider-gif" height="280" src="https://www.imagensanimadas.com/data/media/1555/homem-aranha-imagem-animada-0008.gif"/> 
-
+</div>
 
 ###
+##
 
 <div>
   <a href="https://github.com/RayanPhablo">
