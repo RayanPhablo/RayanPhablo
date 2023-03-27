@@ -1,4 +1,4 @@
-## Olá! Sou Phablo, seja muito bem vindo ao meu github! 😎
+## Olá! Sou o Phablo, seja muito bem vindo ao meu github! 😎
 
 ###
 <div>
