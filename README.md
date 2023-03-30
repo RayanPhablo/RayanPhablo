@@ -40,7 +40,7 @@ Estou sempre estudando e tentando aprimorar minhas habilidades ao máximo. 📚�
 
 
   
-</div>
+</div
 
 
 
